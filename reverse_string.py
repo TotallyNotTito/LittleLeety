@@ -1,6 +1,4 @@
 List = ['hello', 'goodbye', 'another', 'day']
-num = 0
-
 
 for i in range(len(List)) :
     j = len(List[i]) - 1
